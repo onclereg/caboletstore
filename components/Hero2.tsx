@@ -9,8 +9,13 @@ const Hero2 = () => {
                 <h1 className=' text-3xl md:text-7xl font-bold'>Process & Capabilities</h1>
                 <p>Our chemical production and supply system was originally designed to efficiently deliver specialty chemicals and through our investment to renovate and modernize the site, CCC is efficient, and a very reliable value-added source for your external chemical needs. Whether you are scaling up on an existing process or looking for a partner to develop your process for chemical needs, or in need of any additional capacity or seeking to defer capital expenditures – our experienced team is ready to meet your needs.</p>
             </div>
-            <div className=' bg-[url(/class_image.png)] bg-cover' >
-                
+            <div className=' md:pr-8' >
+                <Image
+                        src="/class_image.png"
+                        alt="Picture"
+                        width={500}
+                        height={500}                    
+                    />
             </div>
         </div>
 
