@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div>
         <section className='p-8 min-h-screen w-full text-black grid grid-cols-1 justify-center gap-4 bg-[url(/backgroundimg.avif)] object-fill'>
-            <div className=' md:max-w-[50vw] mx-auto'>
+            <div className=' md:max-w-[70vw] mx-auto'>
                 <p  className='text-xl lg:text-3xl font-semibold'>
                     <h2 className='text-3xl md:text-7xl font-extrabold align-bottom pt-[150px] flex justify-center'>About Us.</h2><br></br>
                     CCC is one of the leading distributors of industrial chemicals in Poland. CCC is engaged in the supply and distribution of Industrial Chemicals, Pharmaceutical Raw Materials, and Food Chemicals of a wide variety to large, medium, and small scale industries like the Mining, Oil Refining, Food & Beverages, textiles & Printing, Breweries, Pharmaceuticals among others
