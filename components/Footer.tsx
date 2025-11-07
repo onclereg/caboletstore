@@ -23,7 +23,7 @@ const Footer = () => {
                     <h2 className="text-2xl font-bold mb-4">Business</h2>
                     <ul className="space-y-2 text-black dark:text-white text-xl">
                         <li><a href="mailto:caboletcoatchemicals@gmail.com" className=" hover:text-primary">Send Us An Email</a></li>
-                        <li className=" hover:text-primary">Call Us Today<br></br> <span>+48727936551</span></li>
+                        <li className=" hover:text-primary">Contact Us On WhatsApp<br></br> <span>+4915213716656</span></li>
                     </ul>
                 </div>
                 <div>

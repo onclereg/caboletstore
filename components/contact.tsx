@@ -34,8 +34,8 @@ export default function ContactSection() {
 
           {/* Phone Number */}
           <div className="bg-white p-6 rounded-2xl shadow hover:shadow-lg transition md:min-h-[150px]">
-            <h3 className="text-xl font-semibold text-gray-900 mb-2">Phone</h3>
-            <p className="text-gray-600">+48727936551
+            <h3 className="text-xl font-semibold text-gray-900 mb-2">Contact Us On WhatsApp</h3>
+            <p className="text-gray-600">+4915213716656
             </p>
           </div>
 
@@ -45,7 +45,7 @@ export default function ContactSection() {
             <p className="text-gray-600">
               63-900 RAWICZ ul:JANA SKRZETUSKIEGO 8/7
               <br />
-              Poland
+              POLAND
             </p>
           </div>
         </div>

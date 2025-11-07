@@ -115,7 +115,7 @@ const Hero2 = () => {
                 </div>
                 <div className=' grid gap-2'>
                     <h1 className='text-4xl font-bold'>Acetic Acid</h1>
-                    <p>When you buy acetic acid from us, you’re buying from a business you can trust. As a leading polish's chemical manufacturers, ZCC is extremely proud of our reputation built over 15 year. Our customer service team is always willing to help with your queries. Simply email us for a quote or technical question..</p>
+                    <p>When you buy acetic acid from us, you’re buying from a business you can trust. As a leading polish's chemical manufacturers, CCC is extremely proud of our reputation built over 15 year. Our customer service team is always willing to help with your queries. Simply email us for a quote or technical question.</p>
                 </div>
             </div>
             <div className='grid gap-5'>               
