@@ -15,7 +15,7 @@ const Hero2 = () => {
         </div>
 
         <section className='w-full h-full text-black grid lg:grid-cols-3 bg-linear-to-r from-white to-indigo-300 px-6 py-[150px] text-2xl'>
-            <div  className='grid gap-5 p-2'>
+            <div  className='grid gap-5'>
                 <div >
                     <Image
                         src="/class_image1.png"
@@ -24,13 +24,13 @@ const Hero2 = () => {
                         height={500}                    
                     />
                 </div>
-                <div className='text-xl md:3xl grid gap-2'>
+                <div className='text-xl md:3xl grid gap-2 p-2'>
                     <h1 className='text-2xl md:text-4xl font-bold'>Sustainable Solution Empowerment</h1>
                     <p>Analyzing our products’ contributions to the sustainability needs of our customers’ value chains Society and our customers have been taking a greater interest in the business contribution to sustainability over the past decades.</p>
                 </div>
             </div>
-            <div className='grid gap-5 p-2'>               
-                <div className='text-xl md:3xl grid gap-2'>
+            <div className='grid gap-5'>               
+                <div className='text-xl md:3xl grid gap-2  p-2'>
                     <h1 className='text-2xl md:text-4xl font-bold'>Management, Goals and Dialog</h1>
                     <p>We carry out our corporate purpose “We create the chemistry for a sustainable future” by pursuing goals along our entire value chain. In this, we aim 100% growth and safety.
                         As part of our responsibility, we engage in stakeholder dialog.</p>
@@ -44,7 +44,7 @@ const Hero2 = () => {
                     />
                 </div>
             </div>
-            <div  className='grid gap-5 p-2'>
+            <div  className='grid gap-5'>
                 <div >
                     <Image
                         src="/flat.jpg"
@@ -53,7 +53,7 @@ const Hero2 = () => {
                         height={400}                    
                     />
                 </div>
-                <div className='text-xl md:3xl gap-2 '>
+                <div className='text-xl md:3xl gap-2  p-2'>
                     <h1 className='text-2xl md:text-4xl font-bold'>We create Chemistry for a Sustainable Future</h1>
                     <p>We always want to contribute to a world in 100% ways that provides viable futures loaded with enhanced quality of life for everyone. We do so by creating chemistry for our customers and by making the best use of available resources.</p>
                 </div>
