@@ -23,8 +23,7 @@ export default function ContactSection() {
             <h3 className="text-xl font-semibold text-gray-900 mb-2">Email</h3>
             <p className="text-gray-600">
               <a
-                href="mailto:caboletcoatchemicals@gmail.com
-"
+                href="mailto:caboletcoatchemicals@gmail.com"
                 className="text-red-600 hover:underline"
               >
                 caboletcoatchemicals@gmail.com
