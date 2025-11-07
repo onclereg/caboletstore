@@ -15,7 +15,7 @@ const Contact = () => {
             <h1 className='text-3xl md:text-5xl font-semibold'>Contact Us</h1>
             <p  className='text-2xl md:text-3xl font-semibold'>Address</p>
             <p>63-900 RAWICZ ul:JANA SKRZETUSKIEGO 8/7,POLAND.</p>
-            <p>Phone: +48727936551
+            <p>Phone: +4915213716656
             </p>
             <p>E-mail: <span className='text-red-500 font-serif'>caboletcoatchemicals@gmail.com</span>
             </p>
@@ -27,7 +27,7 @@ const Contact = () => {
                 <p>We are ready to assist you in anyway possible to make sure provide the right service for you. All our staffs and agents are ready to assist you with any information you might need when it comes to buying or transporting chemicals.</p>
             </div>
             <div className='flex justify-end items-center pr-10'>
-                <button className='bg-red-400 hover:bg-red-800 p-6 my-6 rounded-xl'>+48727936551</button>
+                <button className='bg-red-400 hover:bg-red-800 p-6 my-6 rounded-xl'>+4915213716656</button>
             </div>
         </div>
     </div>
